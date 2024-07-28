@@ -1,6 +1,8 @@
 Trying of different models of Machine Learning to reach to the better accuracy of prediction of the type of signals whether Gamma or hadron based on serval parameters
 
 ########## Data Information ##########
+
+
 MAGIC Gamma Telescope
 The data are MC generated to simulate registration of high energy gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the imaging technique. 
 Cherenkov gamma telescope observes high energy gamma rays, taking advantage of the radiation emitted by charged particles produced inside the electromagnetic showers initiated by the gammas, and developing in the atmosphere.
