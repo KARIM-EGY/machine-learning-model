@@ -14,9 +14,20 @@ allowing to discriminate statistically those caused by primary gammas (signal) f
 ##########
 the models that i try & the Accuracy Descending
 
+
 Model                  Accuracy
+
+
 SVM                    84%
+
+
 Neural Network         83%
+
+
 KNN                    80%
+
+
 Linear Regression      76%
+
+
 Gaussian               70%
