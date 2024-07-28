@@ -18,16 +18,16 @@ the models that i try & the Accuracy Descending
 Model                  Accuracy
 
 
-SVM                    84%
+SVM===================>84%
 
 
-Neural Network         83%
+Neural Network========>83%
 
 
-KNN                    80%
+KNN===================>80%
 
 
-Linear Regression      76%
+Linear Regression====>76%
 
 
-Gaussian               70%
+Gaussian=============>70%
