@@ -1,6 +1,6 @@
-Trying of different models of Machine Learning to reach to the better accuracy of prediction of the type of signals whether Gamma or hadron based on serval parameters
+Trying of different models of **Machine Learning** to reach to the better accuracy of prediction of the type of signals whether **Gamma** or **hadron** based on serval parameters
 
-########## Data Information ##########
+########## **Data Information** ##########
 
 
 MAGIC Gamma Telescope
@@ -12,22 +12,22 @@ Depending on the energy of the primary gamma, a total of few hundreds to some 10
 allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).
 
 ##########
-the models that i try & the Accuracy Descending
+the models that i try & the Accuracy **Descending**
 
 
-Model                  Accuracy
+**Model**===================>**Accuracy**
 
 
 SVM===================>84%
 
 
-Neural Network========>83%
+Neural Network===================>83%
 
 
 KNN===================>80%
 
 
-Linear Regression====>76%
+Linear Regression===================>76%
 
 
-Gaussian=============>70%
+Gaussian===================>70%
