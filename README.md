@@ -12,6 +12,8 @@ Depending on the energy of the primary gamma, a total of few hundreds to some 10
 allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).
 
 ##########
+
+
 the models that i try & the Accuracy **Descending**
 
 
@@ -21,13 +23,13 @@ the models that i try & the Accuracy **Descending**
 SVM===================>84%
 
 
-Neural Network===================>83%
+Neural Network========>83%
 
 
 KNN===================>80%
 
 
-Linear Regression===================>76%
+Linear Regression=====>76%
 
 
-Gaussian===================>70%
+Gaussian==============>70%
